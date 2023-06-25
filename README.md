@@ -8,7 +8,7 @@ This project uses the MIT License. See `LICENSE.md` for more information.
 
 ## Pre-requisites
 
-This project requires Node.js 14.6.0 or higher.
+This project requires Node.js 16.8.0 or higher.
 
 For information on how to download, install and update Node.js, see their official website: [https://nodejs.org/](https://nodejs.org/).
 
