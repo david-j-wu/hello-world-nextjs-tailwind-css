@@ -1,8 +1,3 @@
-export const metadata = {
-  title: "Hello, World!",
-  description: '"Hello, World!" app with Next.js and Tailwind CSS',
-};
-
 export default function Home() {
   return (
     <main className="h-screen flex flex-col justify-center">
