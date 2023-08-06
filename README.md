@@ -1,6 +1,6 @@
 # Hello, World! with Next.js and Tailwind CSS
 
-This is the source code for the tutorial written by David Wu to build the Hello, World! with Next.js and Tailwind CSS project: Setting up a “Hello, World!” web app with Next.js and Tailwind CSS ([https://davidwu.io/posts/setting-up-a-hello-world-web-app-with-nextjs-and-tailwind-css/](https://davidwu.io/posts/setting-up-a-hello-world-web-app-with-nextjs-and-tailwind-css/)).
+This is the source code for the Hello, World! web app with Next.js and Tailwind CSS project covered in Fullstack GPT ([https://www.fullstack-gpt.com/](https://www.fullstack-gpt.com/)).
 
 The terminal commands below are for Mac and other Linux-based systems. Your mileage may vary if you are using Windows or another operating system.
 
